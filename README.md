@@ -55,7 +55,7 @@ Aquí estaré subiendo prácticas de:
 
 ## 📫 Contacto
 
-LinkedIn: (pon aquí tu LinkedIn)
+LinkedIn: https://www.linkedin.com/in/edmon-silvestre-617323198
 
 GitHub: https://github.com/arqedmon14
 
